@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Acer\\Desktop\\EduHome\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DD09A2E8-B085-F7D3-5DC9-9EEB51E5D367}|EduHome.csproj|c:\\users\\acer\\desktop\\eduhome\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD09A2E8-B085-F7D3-5DC9-9EEB51E5D367}|EduHome.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD09A2E8-B085-F7D3-5DC9-9EEB51E5D367}|EduHome.csproj|c:\\users\\acer\\desktop\\eduhome\\services\\interfaces\\isliderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD09A2E8-B085-F7D3-5DC9-9EEB51E5D367}|EduHome.csproj|solutionrelative:services\\interfaces\\isliderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\EduHome\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\EduHome\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T09:17:00.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ISliderService.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\EduHome\\Services\\Interfaces\\ISliderService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\ISliderService.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\EduHome\\Services\\Interfaces\\ISliderService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\ISliderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T09:06:42.834Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
