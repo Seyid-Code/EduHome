@@ -19,6 +19,7 @@ builder.Services.AddHttpContextAccessor();
 builder.Services.AddScoped<ICourseFeatureService, CourseFeatureService>();
 builder.Services.AddScoped<ITagService, TagService>();
 builder.Services.AddScoped<ISliderService, SliderService>();
+builder.Services.AddScoped<ITeacherService, TeacherService>();
 
 var app = builder.Build();
 

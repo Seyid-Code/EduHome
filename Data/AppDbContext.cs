@@ -12,6 +12,7 @@ namespace website.Data
         public DbSet<Course> Courses { get; set; }
         public DbSet<CourseFeature> CourseFeatures { get; set; }
         public DbSet<Slider> Sliders { get; set; }
+        public DbSet<Teacher> Teachers { get; set; }
         public AppDbContext(DbContextOptions options) : base(options)
         {
 

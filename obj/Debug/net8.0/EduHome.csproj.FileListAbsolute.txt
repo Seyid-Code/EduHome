@@ -153,3 +153,4 @@ C:\Users\Acer\Desktop\EduHome\obj\Debug\net8.0\ref\EduHome.dll
 C:\Users\Acer\Desktop\EduHome\bin\Debug\net8.0\EduHome.staticwebassets.runtime.json
 C:\Users\Acer\Desktop\EduHome\bin\Debug\net8.0\FluentValidation.dll
 C:\Users\Acer\Desktop\EduHome\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\Acer\Desktop\EduHome\obj\Debug\net8.0\EduHome.sourcelink.json

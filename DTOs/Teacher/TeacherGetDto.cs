@@ -1,9 +1,13 @@
-﻿using website.Models.BaseModels;
-
-namespace EduHome.Models
+﻿namespace EduHome.DTOs.Teacher
 {
-    public class Teacher : BaseEntity
+    public class TeacherGetDto
     {
+        public Guid ID { get; set; }
+        public DateTime CreatedAt { get; set; }
+        public DateTime? DeletedAt { get; set; }
+        public DateTime? UpdatedAt { get; set; }
+        public bool isDeleted { get; set; }
+
         public string Image { get; set; }
         public string ImageURL { get; set; }
         public string Name { get; set; }
